@@ -13,7 +13,7 @@
 - 🎨 React
 
 ## 📌 Proyectos destacados
-- [🔧 Sistema de mantenimiento con QR]()
+- [🔧 Sistema de mantenimiento con QR](https://github.com/jairsilva22/Mantech-)
 - [🎫 Help Desk con notificaciones en tiempo real]()
 - [📊 Sistema gestion gimnasio](https://github.com/jairsilva22/GYM)
 
