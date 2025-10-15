@@ -11,6 +11,7 @@
 - 🛢 SQL Server
 - 📁 Git & GitHub
 - 🎨 React
+- 🌐 Knockout.js
 
 ## 📌 Proyectos destacados
 - [🔧 Sistema de mantenimiento con QR](https://github.com/jairsilva22/Mantech-)
