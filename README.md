@@ -20,5 +20,5 @@
 
 ## 📬 ¿Hablamos?
 Puedes contactarme en:
-- 📧 luis.silor@gmail.com
+- 📧 jair.silva.dev@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jair-silva-ortiz-7a0084224/)
